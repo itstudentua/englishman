@@ -39,6 +39,7 @@ A web application for learning English words through interactive study modes and
 
 1. Publish to github pages: 
 ```sh
+    npm install
     npm run build
     npm run deploy
 ```
