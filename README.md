@@ -43,8 +43,11 @@ A web application for learning English words through interactive study modes and
     npm run build
     npm run deploy
 ```
+https://itstudentua.github.io/englishman
 
 2. Publish to netlify:
 - Edit path in App.jsx: `export const routeEnglishman = "";`.
 - `npm run build`.
 - Compress files in `/dist` directory and load on netlify.
+
+https://englishman.netlify.app
